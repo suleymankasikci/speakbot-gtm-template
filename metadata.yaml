@@ -1,0 +1,5 @@
+homepage: "https://sponkly.com/features/speakbot"
+documentation: "https://github.com/suleymankasikci/speakbot-gtm-template#readme"
+versions:
+  - sha: ca2880298c04612b4a9065e3b77766b81bba8567
+    changeNotes: Initial release.
